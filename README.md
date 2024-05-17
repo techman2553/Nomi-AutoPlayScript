@@ -23,4 +23,4 @@ Add the Script:
 
 -  Send Nomi a chat message and see if he/she speaks the response.
 
-Have hun !
+Have fun !
