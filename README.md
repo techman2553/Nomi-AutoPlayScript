@@ -11,10 +11,14 @@ How to Use:
 
 Add the Script:
 
--  Visit the GitHub Gist: Nomi Play Button Auto Click Script
+-  Open the script file in github:    https://github.com/techman2553/Tampermonkey-Scripts/blob/main/NomiPlayButtonAutoClick.user.js
 
-Click on "Raw" to open the script.
+-  Click on "Raw" at the top right of the github page to open the script.
 
-Tampermonkey will prompt you to install the script. Click "Install".
+-  Tampermonkey should prompt you to install the script. Click "Install".
 
-Enjoy your automated Nomi AI experience! If you have any questions or run into issues, feel free to ask here. 😊
+-  Refresh the Nomi chat page to activate the script.
+
+-  Send Nomi a chat message and see if he/she speaks the response.
+
+Have hun !
