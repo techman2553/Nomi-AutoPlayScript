@@ -1,7 +1,7 @@
 Auto-Click Nomi Play Button Script
 
 
-ChatGPT4o created for me a Tampermonkey script that automatically clicks the play button for Nomi AI responses. This makes it easier to interact with Nomi by allowing you to type and Nomi to speak.  Feel free to try it out.  
+ChatGPT4o created for me a Tampermonkey script that automatically clicks the play button for Nomi AI responses. This makes it easier to interact with Nomi by allowing you to type and Nomi to speak.    
 
 I know nothing about the scripting language and probably can't help much if it isn't working, but you can copy the script to ChatGPT4 and ask for help if needed.
 
