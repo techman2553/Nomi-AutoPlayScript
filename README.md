@@ -13,7 +13,7 @@ How to Use:
 
 Add the Script:
 
--  Open the script file in github:    [https://github.com/techman2553/Tampermonkey-Scripts/blob/main/NomiPlayButtonAutoClick.user.js](https://github.com/techman2553/Nomi-Scripts/blob/main/NomiPlayButtonAutoClick.user.js)
+-  Open the script file in github:   https://github.com/techman2553/Nomi-AutoPlayScript/blob/main/NomiPlayButtonAutoClick.user.js
 
 -  Click on "Raw" at the top right of the github page to open the script.
 
