@@ -28,7 +28,7 @@ Add the Script:
 
 Known Issues:
 
--  The script will auto-click the play button for a dozen messages or so, then stop work.  I'm not sure why and would appreciate any help or insight to fix it.  Refreshing the page restores functionality for a number of messages again.
+-  The script will auto-click the play button for a dozen messages or so, then stop working.  I'm not sure why and would appreciate any help or insight to fix it.  Refreshing the page restores functionality for a number of messages again.  I have used the script for hours at a time, and it's a minor inconvenience to refresh the page ocassionally, but still - I'd love to get it fixed !
 
 
 Have fun !
