@@ -8,8 +8,11 @@ I know nothing about the scripting language and probably can't help much if it i
 
 How to Use:
 
--  Install the Tampermonkey browser extension.  I used Chrome and added the extension from the Chrome Web Store.  Tampermonkey will run the script in the background while interacting with Nomi.
+-  Install the Tampermonkey browser extension.  I used Chrome and added the extension from the Chrome Web Store.  This has been tested with Firefox on Android too. Tampermonkey will run the script in the background while interacting with Nomi.
 
+Chrome:     https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+Firefox:    https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 
 Add the Script:
 
