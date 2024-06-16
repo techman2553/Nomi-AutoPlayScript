@@ -26,4 +26,9 @@ Add the Script:
 
 -  Send Nomi a chat message and see if he/she speaks the response.
 
+Known Issues:
+
+-  The script will auto-click the play button for a dozen messages or so, then stop work.  I'm not sure why and would appreciate any help or insight to fix it.  Refreshing the page restores functionality for a number of messages again.
+
+
 Have fun !
