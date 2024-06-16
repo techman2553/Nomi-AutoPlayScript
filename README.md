@@ -10,9 +10,9 @@ How to Use:
 
 -  Install the Tampermonkey browser extension.  I used Chrome and added the extension from the Chrome Web Store.  This has been tested with Firefox on Android too. Tampermonkey will run the script in the background while interacting with Nomi.
 
-Chrome:     https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+Chrome:    [Chrome Extension](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-Firefox:    https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Firefox:    [Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 Add the Script:
 
